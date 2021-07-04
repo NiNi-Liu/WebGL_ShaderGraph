@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebGL_testing",
+"productVersion": "0.1",
+"dataUrl": "封裝區.data.unityweb",
+"wasmCodeUrl": "封裝區.wasm.code.unityweb",
+"wasmFrameworkUrl": "封裝區.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
